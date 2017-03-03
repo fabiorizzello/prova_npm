@@ -71,6 +71,18 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "%html",
+			"file": "haml_prova.haml",
+			"file_size": 5,
+			"file_write_time": 131330112910727151,
+			"settings":
+			{
+				"buffer_size": 5,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -80,9 +92,13 @@
 	"command_palette":
 	{
 		"height": 317.0,
-		"last_filter": "terminal",
+		"last_filter": "install",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"terminal",
 				"Terminal: Open"
@@ -90,10 +106,6 @@
 			[
 				"termina",
 				"Terminal: Open"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"Package Control: ",
@@ -351,8 +363,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "haml_prova.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
