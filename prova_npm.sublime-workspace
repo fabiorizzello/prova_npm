@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"str",
+				"strrpos"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"project",
+				"project_configuration"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"value",
+				"values_to_compare"
+			],
+			[
+				"CONT",
+				"contatore_cert"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"con",
+				"contatore_cert"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 317.0,
+		"last_filter": "terminal",
+		"selected_items":
+		[
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Parcks/Desktop/Sviluppo/Git Project/prova_npm"
+	],
+	"file_history":
+	[
+		"/C/Users/Parcks/Desktop/Sviluppo/WebStorm Project/TrialProject/package.json",
+		"//192.168.0.2/programmi/arneo/php-bin/lista_autovetture_tesserati.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/testing/login_screen.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/testing/include_page/include.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/testing/whatsapp_chats.php",
+		"//192.168.0.2/programmi/arneo/php-bin/scelta_stampe_ctrl.php",
+		"//192.168.0.2/programmi/arneo/php-bin/st_ricevuta_tesseramento_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/certificato_storicita_nuovo_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/lista_ricevute.php",
+		"//192.168.0.2/programmi/arneo/php-bin/certificato_identita_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/inquiry_anag_tessera_azione.php",
+		"//192.168.0.2/programmi/arneo/php-bin/inquiry_anag_tessera.php",
+		"//192.168.0.2/programmi/arneo/php-bin/scelta_stampa_automezzi.php",
+		"//192.168.0.2/programmi/arneo/php-bin/pannello.php",
+		"//192.168.0.2/programmi/arneo/php-bin/stampe_riunite_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/funzioni.inc.php",
+		"//192.168.0.2/programmi/arneo/php-bin/display_allegati.inc.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/template/head.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/libs/JQuery 3.1.1/jquery-3.1.1.min.js",
+		"//PRODUZIONE/ambiente di sviluppo MIO/libs/JQuery 3.1.1/jquery-3.1.1.js",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/ctrlutente.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/accesso.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/index.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/php_include.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/include/ctrlsessione.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/testing/index.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/include/connessionedb.inc.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/include/funzioni_generali.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/include/funzioni.inc.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/dummy.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/api_ajax.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/ctrldata.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/api_db.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/ctrldata.inc.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/filter_data.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/ctrlsessione.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/scrivilog.inc.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/connectionDB.php",
+		"//PRODUZIONE/ambiente di sviluppo MIO/Include/funzioni.inc.php",
+		"/C/Users/Parcks/Desktop/Sviluppo/Funzioni_generali.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/invio_mail_riepilogo.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/include/api_db.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/include/api_ajax.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/include/filter_data.php",
+		"/C/Users/Parcks/Desktop/Appunti/credenziali.txt",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/invio_mail.php",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/api/get_datetime.php",
+		"//192.168.0.2/programmi/metis-2.0/js/JS-gestione.js",
+		"//192.168.0.2/programmi/metis-2.0/js/JS-ajax.js",
+		"//192.168.0.2/programmi/metis-2.0/startbootstrap/vendor/jquery/jquery.js",
+		"/C/Users/Parcks/Desktop/Download/JQuery 3.1.1/jquery-3.1.1.js",
+		"/C/Users/Parcks/Desktop/Download/Mobile-Detect-2.8.24/Mobile-Detect-2.8.24/Mobile_Detect.php",
+		"/C/Users/Parcks/Desktop/Download/Mobile-Detect-2.8.24/Mobile-Detect-2.8.24/namespaced/Detection/MobileDetect.php",
+		"/C/Users/Parcks/Desktop/Download/jquery-3.1.1.js",
+		"/C/Users/Parcks/Desktop/Download/jquery-3.1.1.min.js",
+		"//192.168.0.2/programmi/metis-2.0/php-bin/template/nav.php",
+		"//192.168.0.2/programmi/arneo/php-bin/stampa_ricevuta_abbonamento.php",
+		"//192.168.0.2/programmi/arneo/php-bin/stampa_ricevuta_abbonamento_associazione.php",
+		"//192.168.0.2/programmi/arneo/php-bin/st_ricevute_partecipanti_ristorante_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/st_ricevute_partecipanti_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/modulo_cisc_auto.php",
+		"/C/Users/Parcks/Desktop/Sviluppo/Condivisa VB/Credenziali.txt",
+		"//192.168.0.2/programmi/arneo/php-bin/certificato_storicita_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/certificato_storicita_pdf_foto.php",
+		"//192.168.0.2/programmi/arneo/php-bin/domanda_ammissione_socio_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/certificato_rilevanza_pdf.php",
+		"/C/Users/Parcks/Desktop/Appunti/key.txt",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/db_test.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/ordcli_testata.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/db_fasi.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/indirizzi_destinazione.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/codici_iva.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/articoli.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/clienti_fornitori.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/anag_fasi_prod.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/anag_fasi_forn.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/gruppi_merc.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/nazioni.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/tipi_pagamento.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/ordcli_prefissi.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/un_prod.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/valute.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/ordcli_righe.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/articoli_dati.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/clienti_fornitori_dati.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/db_fasi_dati.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/db_test_dati.sql",
+		"//192.168.0.2/programmi/commesse/Esportazione tabelle/indirizzi_spedizione_dati.sql",
+		"/C/Users/Parcks/Desktop/un_prod.sql",
+		"//192.168.0.2/programmi/commesse/Documenti/3 - Procedura_Lancio_Produzione.txt",
+		"/C/Users/Parcks/Desktop/articoli_dati.sql",
+		"/C/Users/Parcks/Desktop/db_fasi.sql",
+		"/C/Users/Parcks/Desktop/anag_fasi_prod.sql",
+		"/C/Users/Parcks/Desktop/anag_fasi_forn.sql",
+		"/C/Users/Parcks/Desktop/db_test_dati.sql",
+		"/C/Users/Parcks/Desktop/clienti_fornitori_dati.sql",
+		"/C/Users/Parcks/Desktop/indirizzi_spedizione_dati.sql",
+		"//192.168.0.2/programmi/americantakeaways/esempio.php.txt",
+		"/C/Users/Parcks/Desktop/esportazione tabelle/ordcli_testata.sql",
+		"/C/Users/Parcks/Desktop/esportazione tabelle/ordcli_righe.sql",
+		"/C/Users/Parcks/Desktop/esportazione tabelle/db_test.sql",
+		"/C/Users/Parcks/Desktop/esportazione tabelle/articoli.sql",
+		"/C/Users/Parcks/Desktop/ordcli_testata.sql",
+		"/C/Users/Parcks/Desktop/indirizzi_destinazione.sql",
+		"/C/Users/Parcks/Desktop/ordcli_testata.txt",
+		"/C/Users/Parcks/Desktop/ordcli_prefissi.sql",
+		"/C/Users/Parcks/Desktop/clienti_fornitori.txt",
+		"/C/Users/Parcks/Desktop/ordcli_prefissi.txt",
+		"/C/Users/Parcks/Desktop/tipi_pagamento.sql",
+		"/C/Users/Parcks/Desktop/1 - testata_tab.txt",
+		"/C/Users/Parcks/Desktop/BUY.txt",
+		"//192.168.0.2/programmi/exec_script.php",
+		"//192.168.0.2/programmi/recy_commesse/doc/2 - righe_analisi.txt",
+		"//192.168.0.2/programmi/recy_commesse/doc/1 - testata_analisi.txt",
+		"//192.168.0.2/programmi/arneo/php-bin/f2selectstampeEtichetteAbb.php",
+		"//192.168.0.2/programmi/arneo/php-bin/stampa_indirizzi_abbonati_pdf.php",
+		"//192.168.0.2/programmi/arneo/php-bin/f2selectstampe.php",
+		"//192.168.0.2/programmi/recy_commesse/doc/3 - Procedura_Lancio_Produzione.txt",
+		"//192.168.0.2/programmi/recy_commesse/doc/Procedura_Lancio_Produzione.txt",
+		"//192.168.0.2/programmi/recy/doc/tabelle_commesse_recy.txt",
+		"//192.168.0.2/programmi/recy_commesse/doc/testata_analisi.txt",
+		"//192.168.0.2/programmi/recy_commesse/doc/righe_analisi.txt",
+		"//192.168.0.2/programmi/recy_commesse/php-bin/commesse_testata.php",
+		"//192.168.0.2/programmi/recy_commesse/doc/testata_corrispondenza_campi_db.txt",
+		"//192.168.0.2/programmi/recy_commesse/php-bin/aggiorna_nordcli.php",
+		"//192.168.0.2/programmi/recy_commesse/php-bin/template/head.php",
+		"//192.168.0.2/programmi/recy_commesse/doc/corrispondenza_campi_db.txt",
+		"//192.168.0.2/programmi/recy_commesse/php-bin/include/connessionedb.inc.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"\\\\192.168.0.2\\programmi\\arneo\\php-bin",
+			"\\\\192.168.0.2\\programmi\\crm-portolano\\php-bin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%\">",
+			"'-')));\n",
+			"p17",
+			"p33",
+			"conta",
+			"$project_configuration[",
+			"config",
+			"config_project",
+			"CONFIG_PROJECT",
+			"sCampoDescr",
+			"sTab",
+			"s2",
+			"s1",
+			"s",
+			"initial_format",
+			"conversione_type",
+			"dateElab",
+			"sReverse",
+			"sAzione",
+			"sData",
+			"NormalizesDate",
+			"sElab",
+			"sSql",
+			"seDefault",
+			"sCampoDescr",
+			"$conn",
+			"$connection",
+			"queryPrintErrorExit",
+			"Aci-storico-logo-.jpg",
+			"image",
+			"r_",
+			"p17",
+			"RECY",
+			"EXPORT_TABLE",
+			"RECY",
+			"USERS",
+			"RECY",
+			"USERS",
+			"GA2",
+			"RECY",
+			"DATADOCCLI",
+			"last_nordcli",
+			"\"));",
+			"datepicker",
+			"bootstrap-datepicker",
+			"Selezionare"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$project_configuration['LOG'][",
+			"project_configuration",
+			"select",
+			"table",
+			"conversion_type",
+			"date",
+			"reversal",
+			"conversione_type",
+			"date",
+			"$connection",
+			"$conn",
+			"GA2",
+			"DB_TEST",
+			"ARTICOLI",
+			"GA2",
+			"ga2",
+			"GA2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prova_npm.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"segnalazioni_gestione_parcoauto",
+				"metis-2.0\\php-bin\\segnalazioni_gestione_parcoauto.php"
+			],
+			[
+				"tree_db",
+				"recy\\php-bin\\tree_db.php"
+			],
+			[
+				"accesso",
+				"recy\\php-bin\\accesso.php"
+			],
+			[
+				"index",
+				"recy\\index.php"
+			],
+			[
+				"index2",
+				"recy\\php-bin\\index2.php"
+			],
+			[
+				"",
+				"arneo\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
